@@ -1,2 +1,2 @@
-# Sewing-diary
-An online diary to keep track of sewing projects
+# My-Hobby-planner
+An online planner to keep track of and plan out hobby-related projects
