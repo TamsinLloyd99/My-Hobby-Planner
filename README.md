@@ -131,13 +131,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Open-source libraries and frameworks used in this project.
 
 Feel free to fork this repository and customize it to suit your needs. Contributions and suggestions are always welcome!
-
-
-If you're viewing this on a website, here's an embedded version:
-
-<iframe
-  width="800"
-  height="600"
-  src="[https://www.figma.com/embed?embed_host=share&url=YOUR_FIGMA_LINK](https://www.figma.com/design/ByRcp1vNjl5fygKodXoYM5/My-Hobby-Planner---Main-page?node-id=0-1&t=lt3umpQ8jF7qyW8K-1)"
-  allowfullscreen
-></iframe>
