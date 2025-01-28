@@ -62,7 +62,7 @@ Secure and user-friendly log-in screen for personalized access.
 
 ### Frontend
 - HTML, CSS, JavaScript
-- Framework: React (if applicable)
+- Framework: React 
 
 ### Backend
 - Node.js with Express (for handling API requests)
@@ -73,7 +73,7 @@ Secure and user-friendly log-in screen for personalized access.
 ### Other Tools
 - Figma: For designing the user interface.
 - GitHub: For version control and collaboration.
-- Vercel/Netlify (optional): For hosting the application.
+- Netlify: For hosting the application.
 
 ## Figma Prototype
 
@@ -131,19 +131,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Open-source libraries and frameworks used in this project.
 
 Feel free to fork this repository and customize it to suit your needs. Contributions and suggestions are always welcome!
-
-
-## 🌐 Figma Prototype Link
-You can view the live Figma prototype here:  
-[View Prototype](https://www.figma.com/design/ByRcp1vNjl5fygKodXoYM5/My-Hobby-Planner---Main-page?node-id=0-1&t=lt3umpQ8jF7qyW8K-1)
-
-
-
-
-
-
-
-
 
 
 If you're viewing this on a website, here's an embedded version:
