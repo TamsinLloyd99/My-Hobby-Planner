@@ -12,11 +12,12 @@ The goal of this project is to:
 ## Features
 
 The Figma design includes:
-- **Dashboard**: An overview page displaying active and upcoming hobby projects.
-- **Project Pages**: Dedicated pages for each hobby with customizable project details.
+- **Homepage**:  A welcoming landing page that introduces users to the platform.
+- **Profile Page**: A personalized dashboard for users to: View and edit account details and see a summary of activity, including completed projects and milestones.
+- **Project Page**: An overview page displaying active and upcoming hobby projects.
 - **Calendar Integration**: A design for visualizing deadlines and milestones.
 - **Scrapbook Layout**: An interactive, scrapbook-style interface for personalizing projects.
-- **Responsive Design**: Mobile and desktop layouts for seamless user experience.
+- **Log-in Page**: A simple yet functional log-in page for personalized user access.
 
 ## Folder Structure
 
