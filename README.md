@@ -78,7 +78,7 @@ Secure and user-friendly log-in screen for personalized access.
 ## Figma Prototype
 
 You can view the Figma design for the Hobby Planner here:  
-[View Figma Prototype](#)
+[[View Figma Prototype](#)](https://www.figma.com/design/ByRcp1vNjl5fygKodXoYM5/My-Hobby-Planner---Main-page?node-id=0-1&t=lt3umpQ8jF7qyW8K-1)
 
 ## Installation Instructions
 
